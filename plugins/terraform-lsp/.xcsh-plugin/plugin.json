@@ -3,7 +3,7 @@
   "description": "Terraform language server for infrastructure-as-code intelligence via terraform-ls",
   "version": "1.0.0",
   "author": {
-    "name": "f5xc-salesdemos"
+    "name": "f5-sales-demo"
   },
   "lspServers": {
     "terraform-ls": {

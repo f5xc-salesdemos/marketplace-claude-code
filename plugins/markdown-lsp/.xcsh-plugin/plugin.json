@@ -3,7 +3,7 @@
   "description": "Markdown language server for documentation intelligence",
   "version": "1.0.0",
   "author": {
-    "name": "f5xc-salesdemos"
+    "name": "f5-sales-demo"
   },
   "lspServers": {
     "vscode-markdown-language-server": {

@@ -3,7 +3,7 @@
   "description": "ESLint language server for JavaScript/TypeScript linting",
   "version": "1.0.0",
   "author": {
-    "name": "f5xc-salesdemos"
+    "name": "f5-sales-demo"
   },
   "lspServers": {
     "vscode-eslint-language-server": {

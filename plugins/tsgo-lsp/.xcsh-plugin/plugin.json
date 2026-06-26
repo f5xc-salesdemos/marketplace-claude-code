@@ -3,7 +3,7 @@
   "description": "TypeScript and JavaScript language server via tsgo (Microsoft's native TypeScript-Go port)",
   "version": "1.0.0",
   "author": {
-    "name": "f5xc-salesdemos"
+    "name": "f5-sales-demo"
   },
   "lspServers": {
     "tsgo": {

@@ -3,7 +3,7 @@
   "description": "Bash/Shell language server for script intelligence",
   "version": "1.0.0",
   "author": {
-    "name": "f5xc-salesdemos"
+    "name": "f5-sales-demo"
   },
   "lspServers": {
     "bash-language-server": {

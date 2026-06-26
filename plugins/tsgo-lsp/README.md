@@ -6,7 +6,7 @@ TypeScript and JavaScript language server plugin for Claude Code, providing code
 
 Install `tsgo` before enabling this plugin:
 
-- **Pre-installed** in the f5xc-salesdemos devcontainer
+- **Pre-installed** in the f5-sales-demo devcontainer
 - **Manual install:** `npm install -g @typescript/native-preview` (provides the `tsgo` binary)
 
 ## Features

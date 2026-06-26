@@ -6,7 +6,7 @@ TOML language server plugin for Claude Code, providing code intelligence for `.t
 
 Install `taplo` before enabling this plugin:
 
-- **Pre-installed** in the f5xc-salesdemos devcontainer
+- **Pre-installed** in the f5-sales-demo devcontainer
 - **Manual install:** Download from [taplo releases](https://github.com/tamasfe/taplo/releases)
 
 ## Features

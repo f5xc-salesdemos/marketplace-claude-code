@@ -1,13 +1,13 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "f5xc-salesdemos-marketplace-claude-code",
+  "name": "f5-sales-demo-marketplace-claude-code",
   "version": "1.0.0",
   "metadata": {
     "description": "Claude Code dedicated marketplace for Language Server Protocol (LSP) plugins"
   },
   "owner": {
-    "name": "f5xc-salesdemos",
-    "url": "https://github.com/f5xc-salesdemos"
+    "name": "f5-sales-demo",
+    "url": "https://github.com/f5-sales-demo"
   },
   "plugins": [
     {
@@ -15,16 +15,16 @@
       "description": "Terraform language server for infrastructure-as-code intelligence via terraform-ls",
       "version": "1.0.0",
       "author": {
-        "name": "f5xc-salesdemos"
+        "name": "f5-sales-demo"
       },
       "source": "./plugins/terraform-lsp",
       "category": "development",
       "strict": false,
-      "homepage": "https://github.com/f5xc-salesdemos/marketplace-claude-code/tree/main/plugins/terraform-lsp",
+      "homepage": "https://github.com/f5-sales-demo/marketplace-claude-code/tree/main/plugins/terraform-lsp",
       "license": "Apache-2.0",
       "keywords": ["terraform", "lsp", "infrastructure", "iac", "hashicorp"],
       "tags": ["terraform", "lsp", "language-server"],
-      "repository": "https://github.com/f5xc-salesdemos/marketplace-claude-code",
+      "repository": "https://github.com/f5-sales-demo/marketplace-claude-code",
       "lspServers": {
         "terraform-ls": {
           "command": "terraform-ls",
@@ -41,16 +41,16 @@
       "description": "JSON language server for schema validation and code intelligence via vscode-json-language-server",
       "version": "1.0.0",
       "author": {
-        "name": "f5xc-salesdemos"
+        "name": "f5-sales-demo"
       },
       "source": "./plugins/json-lsp",
       "category": "development",
       "strict": false,
-      "homepage": "https://github.com/f5xc-salesdemos/marketplace-claude-code/tree/main/plugins/json-lsp",
+      "homepage": "https://github.com/f5-sales-demo/marketplace-claude-code/tree/main/plugins/json-lsp",
       "license": "Apache-2.0",
       "keywords": ["json", "jsonc", "lsp", "schema", "validation"],
       "tags": ["json", "lsp", "language-server"],
-      "repository": "https://github.com/f5xc-salesdemos/marketplace-claude-code",
+      "repository": "https://github.com/f5-sales-demo/marketplace-claude-code",
       "lspServers": {
         "json": {
           "command": "vscode-json-language-server",
@@ -67,16 +67,16 @@
       "description": "Bash/Shell language server for script intelligence via bash-language-server",
       "version": "1.0.0",
       "author": {
-        "name": "f5xc-salesdemos"
+        "name": "f5-sales-demo"
       },
       "source": "./plugins/bash-lsp",
       "category": "development",
       "strict": false,
-      "homepage": "https://github.com/f5xc-salesdemos/marketplace-claude-code/tree/main/plugins/bash-lsp",
+      "homepage": "https://github.com/f5-sales-demo/marketplace-claude-code/tree/main/plugins/bash-lsp",
       "license": "Apache-2.0",
       "keywords": ["bash", "shell", "zsh", "lsp"],
       "tags": ["bash", "lsp", "language-server"],
-      "repository": "https://github.com/f5xc-salesdemos/marketplace-claude-code",
+      "repository": "https://github.com/f5-sales-demo/marketplace-claude-code",
       "lspServers": {
         "bash-language-server": {
           "command": "bash-language-server",
@@ -95,16 +95,16 @@
       "description": "YAML language server for schema validation and code intelligence via yaml-language-server",
       "version": "1.0.0",
       "author": {
-        "name": "f5xc-salesdemos"
+        "name": "f5-sales-demo"
       },
       "source": "./plugins/yaml-lsp",
       "category": "development",
       "strict": false,
-      "homepage": "https://github.com/f5xc-salesdemos/marketplace-claude-code/tree/main/plugins/yaml-lsp",
+      "homepage": "https://github.com/f5-sales-demo/marketplace-claude-code/tree/main/plugins/yaml-lsp",
       "license": "Apache-2.0",
       "keywords": ["yaml", "yml", "kubernetes", "lsp"],
       "tags": ["yaml", "lsp", "language-server"],
-      "repository": "https://github.com/f5xc-salesdemos/marketplace-claude-code",
+      "repository": "https://github.com/f5-sales-demo/marketplace-claude-code",
       "lspServers": {
         "yaml-language-server": {
           "command": "yaml-language-server",
@@ -121,16 +121,16 @@
       "description": "CSS/SCSS/Less language server for style intelligence via vscode-css-language-server",
       "version": "1.0.0",
       "author": {
-        "name": "f5xc-salesdemos"
+        "name": "f5-sales-demo"
       },
       "source": "./plugins/css-lsp",
       "category": "development",
       "strict": false,
-      "homepage": "https://github.com/f5xc-salesdemos/marketplace-claude-code/tree/main/plugins/css-lsp",
+      "homepage": "https://github.com/f5-sales-demo/marketplace-claude-code/tree/main/plugins/css-lsp",
       "license": "Apache-2.0",
       "keywords": ["css", "scss", "less", "lsp"],
       "tags": ["css", "lsp", "language-server"],
-      "repository": "https://github.com/f5xc-salesdemos/marketplace-claude-code",
+      "repository": "https://github.com/f5-sales-demo/marketplace-claude-code",
       "lspServers": {
         "vscode-css-language-server": {
           "command": "vscode-css-language-server",
@@ -148,16 +148,16 @@
       "description": "HTML language server for markup intelligence via vscode-html-language-server",
       "version": "1.0.0",
       "author": {
-        "name": "f5xc-salesdemos"
+        "name": "f5-sales-demo"
       },
       "source": "./plugins/html-lsp",
       "category": "development",
       "strict": false,
-      "homepage": "https://github.com/f5xc-salesdemos/marketplace-claude-code/tree/main/plugins/html-lsp",
+      "homepage": "https://github.com/f5-sales-demo/marketplace-claude-code/tree/main/plugins/html-lsp",
       "license": "Apache-2.0",
       "keywords": ["html", "htm", "lsp"],
       "tags": ["html", "lsp", "language-server"],
-      "repository": "https://github.com/f5xc-salesdemos/marketplace-claude-code",
+      "repository": "https://github.com/f5-sales-demo/marketplace-claude-code",
       "lspServers": {
         "vscode-html-language-server": {
           "command": "vscode-html-language-server",
@@ -174,16 +174,16 @@
       "description": "ESLint language server for JavaScript/TypeScript linting via vscode-eslint-language-server",
       "version": "1.0.0",
       "author": {
-        "name": "f5xc-salesdemos"
+        "name": "f5-sales-demo"
       },
       "source": "./plugins/eslint-lsp",
       "category": "development",
       "strict": false,
-      "homepage": "https://github.com/f5xc-salesdemos/marketplace-claude-code/tree/main/plugins/eslint-lsp",
+      "homepage": "https://github.com/f5-sales-demo/marketplace-claude-code/tree/main/plugins/eslint-lsp",
       "license": "Apache-2.0",
       "keywords": ["eslint", "javascript", "typescript", "lsp", "linting"],
       "tags": ["eslint", "lsp", "language-server"],
-      "repository": "https://github.com/f5xc-salesdemos/marketplace-claude-code",
+      "repository": "https://github.com/f5-sales-demo/marketplace-claude-code",
       "lspServers": {
         "vscode-eslint-language-server": {
           "command": "vscode-eslint-language-server",
@@ -204,16 +204,16 @@
       "description": "Markdown language server for documentation intelligence via vscode-markdown-language-server",
       "version": "1.0.0",
       "author": {
-        "name": "f5xc-salesdemos"
+        "name": "f5-sales-demo"
       },
       "source": "./plugins/markdown-lsp",
       "category": "development",
       "strict": false,
-      "homepage": "https://github.com/f5xc-salesdemos/marketplace-claude-code/tree/main/plugins/markdown-lsp",
+      "homepage": "https://github.com/f5-sales-demo/marketplace-claude-code/tree/main/plugins/markdown-lsp",
       "license": "Apache-2.0",
       "keywords": ["markdown", "md", "lsp", "documentation"],
       "tags": ["markdown", "lsp", "language-server"],
-      "repository": "https://github.com/f5xc-salesdemos/marketplace-claude-code",
+      "repository": "https://github.com/f5-sales-demo/marketplace-claude-code",
       "lspServers": {
         "vscode-markdown-language-server": {
           "command": "vscode-markdown-language-server",
@@ -229,16 +229,16 @@
       "description": "MDX language server for MDX document intelligence via mdx-language-server",
       "version": "1.0.1",
       "author": {
-        "name": "f5xc-salesdemos"
+        "name": "f5-sales-demo"
       },
       "source": "./plugins/mdx-lsp",
       "category": "development",
       "strict": false,
-      "homepage": "https://github.com/f5xc-salesdemos/marketplace-claude-code/tree/main/plugins/mdx-lsp",
+      "homepage": "https://github.com/f5-sales-demo/marketplace-claude-code/tree/main/plugins/mdx-lsp",
       "license": "Apache-2.0",
       "keywords": ["mdx", "markdown", "jsx", "lsp"],
       "tags": ["mdx", "lsp", "language-server"],
-      "repository": "https://github.com/f5xc-salesdemos/marketplace-claude-code",
+      "repository": "https://github.com/f5-sales-demo/marketplace-claude-code",
       "lspServers": {
         "mdx-language-server": {
           "command": "mdx-language-server",
@@ -259,16 +259,16 @@
       "description": "TOML language server for configuration file intelligence via taplo",
       "version": "1.0.0",
       "author": {
-        "name": "f5xc-salesdemos"
+        "name": "f5-sales-demo"
       },
       "source": "./plugins/toml-lsp",
       "category": "development",
       "strict": false,
-      "homepage": "https://github.com/f5xc-salesdemos/marketplace-claude-code/tree/main/plugins/toml-lsp",
+      "homepage": "https://github.com/f5-sales-demo/marketplace-claude-code/tree/main/plugins/toml-lsp",
       "license": "Apache-2.0",
       "keywords": ["toml", "taplo", "lsp", "configuration"],
       "tags": ["toml", "lsp", "language-server"],
-      "repository": "https://github.com/f5xc-salesdemos/marketplace-claude-code",
+      "repository": "https://github.com/f5-sales-demo/marketplace-claude-code",
       "lspServers": {
         "taplo": {
           "command": "taplo",
@@ -284,16 +284,16 @@
       "description": "TypeScript and JavaScript language server via tsgo (Microsoft's native TypeScript-Go port)",
       "version": "1.0.0",
       "author": {
-        "name": "f5xc-salesdemos"
+        "name": "f5-sales-demo"
       },
       "source": "./plugins/tsgo-lsp",
       "category": "development",
       "strict": false,
-      "homepage": "https://github.com/f5xc-salesdemos/marketplace-claude-code/tree/main/plugins/tsgo-lsp",
+      "homepage": "https://github.com/f5-sales-demo/marketplace-claude-code/tree/main/plugins/tsgo-lsp",
       "license": "Apache-2.0",
       "keywords": ["typescript", "javascript", "tsgo", "lsp", "tsserver"],
       "tags": ["typescript", "lsp", "language-server"],
-      "repository": "https://github.com/f5xc-salesdemos/marketplace-claude-code",
+      "repository": "https://github.com/f5-sales-demo/marketplace-claude-code",
       "lspServers": {
         "tsgo": {
           "command": "tsgo",

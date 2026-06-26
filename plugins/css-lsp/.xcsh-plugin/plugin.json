@@ -3,7 +3,7 @@
   "description": "CSS/SCSS/Less language server for style intelligence",
   "version": "1.0.0",
   "author": {
-    "name": "f5xc-salesdemos"
+    "name": "f5-sales-demo"
   },
   "lspServers": {
     "vscode-css-language-server": {
